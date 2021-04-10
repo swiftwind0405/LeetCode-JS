@@ -89,6 +89,7 @@
 |575|[Distrubute Candies](https://leetcode.com/problems/distribute-candies/)| [java](./algorithms/distributeCandies/Solution.java) |Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [java](./algorithms/binaryTreeTilt/Solution.java) |Easy|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [java](./algorithms/reverseWordsIII/Solution.java) |Easy|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | |Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | |Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | |Easy|
@@ -150,7 +151,7 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [js](./algorithms/intersectionOfTwoArrays/intersectionOfTwoArrays.js) |Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [js](./algorithms/topKFrequentElements/Solution.js) |Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | |Easy|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/) [java](./algorithms/resverseString/Solution.java), [js](./algorithms/resverseString/resverseString.js) | |Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [java](./algorithms/reverseString/Solution.java), [js](./algorithms/resverseString/resverseString.js) |Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | |Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | |Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | |Medium|
@@ -185,7 +186,7 @@
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | |Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | |Medium|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | |Hard|
-|292|[Nim Game](https://leetcode.com/problems/nim-game/)  | |Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [java](./algorithms/nimGame/solution.java)  |Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | |Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | |Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | |Hard|
@@ -388,7 +389,7 @@
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| |Hard|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| |Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| |Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [js](./algorithms/maximumSubarray/maximumSubarray.js) |Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [js](./algorithms/maximumSubarray/maximumSubarray.js) [java](./algorithms/maximumSubarray/Solution.java)  |Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| |Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| |Hard|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| |Medium|
@@ -432,7 +433,7 @@
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| |Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [js](./algorithms/containerWithMostWater/containerWithMostWater.js) |Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| |Hard|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| |Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [java](./algorithm/palindromeNum/Solution.java) |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| |Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [js](./algorithms/reverseInteger/reverseInteger.js),[java](./algorithms/reverseInteger/Solution.java)  |Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| |Easy|
